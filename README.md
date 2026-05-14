@@ -22,8 +22,11 @@ List of final selected features.
 - Model Training
 - Accuracy Evaluation
 
-## Results
-Accuracy scores and findings.
+ ## Requirements
+Install required libraries using:
+pip install -r requirements.txt
+
+
 
 ## Technologies
 Python, Pandas, Seaborn, Scikit-learn
